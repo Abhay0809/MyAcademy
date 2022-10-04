@@ -27,8 +27,11 @@ SSC Freedom Batch
 #  FACULTIES :
 
 Manish Chaturvedi(Team Head)
+
 Amrender Kumar(Academic Head)
+
 Gaurav Bilthariya(MP PSC Lead)
+
 Govind Tiwari(SSC Lead)
 
 #  Using this website we are providing full information of our MY ACADEMY App with thier :
@@ -44,7 +47,7 @@ contact deatils
 registration form for the course
 
 
-3Direct link to the website : https://abhay0809.github.io/MyAcademy/#contact
+#  Direct link to the website : https://abhay0809.github.io/MyAcademy/#contact
 
 
 
