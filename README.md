@@ -1,5 +1,8 @@
 ![ma](https://user-images.githubusercontent.com/84720454/193931969-28f7b2ba-9d70-4fbb-a133-aa507f32f57f.png)
+
 MyAcademy
+
+
 India's leading Ed-Tech Company offering learning from academic classes to professional courses and all types of skill development courses.
 
 
