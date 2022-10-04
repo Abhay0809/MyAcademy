@@ -1,32 +1,39 @@
-                                          ![ma](https://user-images.githubusercontent.com/84720454/193931969-28f7b2ba-9d70-4fbb-a133-aa507f32f57f.png)
+![ma](https://user-images.githubusercontent.com/84720454/193931969-28f7b2ba-9d70-4fbb-a133-aa507f32f57f.png)
 
-                                                                       MyAcademy
-
-
-India's leading Ed-Tech Company offering learning from academic classes to professional courses and all types of skill development courses.
+#MY ACADEMY
 
 
+#India's leading Ed-Tech Company offering learning from academic classes to professional courses and all types of skill development courses. My Academy is an Educational Company that offers education affordable and impactful through technology based teaching styles that make learning more interesting and engaging.
 
-LIST OF COURSES IS GIVEN BELOW :
+#Through this website we are giving you all information of courses which are available at our MY ACADEMY APP. We have provided the direct link to download the app.
+https://play.google.com/store/apps/details?id=co.martin.edinv
 
 
-UPSC(UNION PUBLIC SERVICE COMMISSION):
-My Academy offering UPSC Tablet Course on the occasion of Independence. Features Comprehensive Course, Prelims Cum Mains Personal, Mentor Live Learning Mode, Free Study Material.
+#LIST OF COURSES ARE GIVEN BELOW :
 
-SSC(Staff Selection Commission):
-MY ACADEMY offering SSC Freedom Batch. Top faculty of delhi. Course duration 4 month Live and recorded classe, Live class from delhi main branch, Complete course.
-
-BPSC(Bihar Public Service Commission):
-MY ACADEMY offering BPSC Tablet Course. Top faculty of delhi. One Year Validy with Mentor Help, Prelims cum Main.
-
+UPSC(UNION PUBLIC SERVICE COMMISSION)
+SSC(Staff Selection Commission)
+BPSC(Bihar Public Service Commission)
 MP PSC (Madhya Pradesh Public Service Commission)
-MY ACADEMY offering BPSC Tablet Course. Top faculty of delhi. One Year Validy with Mentor Help, Prelims cum Main.
+Banking
+SSC Freedom Batch
 
-Banking:
-My Academy offer Banking Comprehensive Course. One Year Validy with Mentor Help.
+#FACULTIES :
 
-SSC Freedom Batch : 
-MY ACADEMY offering SSC Freedom Batch. Top faculty of delhi. Course duration 4 month Live and recorded classe, Live class from delhi main branch, Complete course
+Manish Chaturvedi(Team Head)
+Amrender Kumar(Academic Head)
+Gaurav Bilthariya(MP PSC Lead)
+Govind Tiwari(SSC Lead)
+
+#Using this website we are providing full information of our MY ACADEMY App with thier :
+faculties 
+course 
+about the company
+contact deatils
+registration form for the course
+
+3Direct link to the website : https://abhay0809.github.io/MyAcademy/#contact
+
 
 
 
