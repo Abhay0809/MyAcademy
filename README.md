@@ -6,8 +6,7 @@
 #  India's leading Ed-Tech Company offering learning from academic classes to professional courses and all types of skill development courses. My Academy is an Educational Company that offers education affordable and impactful through technology based teaching styles that make learning more interesting and engaging.
 
 #  Through this website we are giving you all information of courses which are available at our MY ACADEMY APP. We have provided the direct link to download the app.
-https://play.google.com/store/apps/details?id=co.martin.edinv
-
+>## [**Link**](https://play.google.com/store/apps/details?id=co.martin.edinv)
 
 #  LIST OF COURSES ARE GIVEN BELOW :
 
